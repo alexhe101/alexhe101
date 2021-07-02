@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexhe101)](https://github.com/anuraghazra/github-readme-stats)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexhe101)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexhe101&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **alexhe101/alexhe101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
